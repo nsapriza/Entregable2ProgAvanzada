@@ -1,8 +1,5 @@
-import Entities.Empaquetado;
-import Entities.Envio;
-import Entities.Payment;
-import Entities.ProcesadorDePagos;
-import org.junit.Test;
+package main.java.com.um.prog;
+import main.java.com.um.prog.Entities.*;
 
 import java.util.LinkedList;
 import java.util.concurrent.ExecutorService;

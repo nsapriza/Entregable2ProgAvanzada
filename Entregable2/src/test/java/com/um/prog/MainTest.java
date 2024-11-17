@@ -1,10 +1,9 @@
-import Entities.Empaquetado;
-import Entities.Envio;
-import Entities.Payment;
-import Entities.ProcesadorDePagos;
-import org.junit.Test;
+package test.java.com.um.prog;
 
-import java.lang.reflect.Array;
+import main.java.com.um.prog.Entities.Empaquetado;
+import main.java.com.um.prog.Entities.Envio;
+import main.java.com.um.prog.Entities.Payment;
+import main.java.com.um.prog.Entities.ProcesadorDePagos;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;

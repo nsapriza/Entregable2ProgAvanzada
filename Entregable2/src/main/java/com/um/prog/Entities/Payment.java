@@ -1,4 +1,4 @@
-package Entities;
+package main.java.com.um.prog.Entities;
 
 public class Payment {
     private String senderBank = "";

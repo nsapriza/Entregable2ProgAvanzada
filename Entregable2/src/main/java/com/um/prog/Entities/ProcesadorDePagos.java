@@ -1,4 +1,4 @@
-package Entities;
+package main.java.com.um.prog.Entities;
 
 public class ProcesadorDePagos {
     public Payment process(Payment payment){
